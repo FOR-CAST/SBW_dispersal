@@ -1,2 +1,1 @@
-# SBW_dispersal
-Spruce budworm dispersal module
+SBW_dispersal.md
